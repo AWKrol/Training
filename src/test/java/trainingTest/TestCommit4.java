@@ -10,6 +10,6 @@ public class TestCommit4 {
     public void checkCalc() {
         Assert.assertEquals((4 + 2), 6);
         Assert.assertEquals((8 + 2), 10);
-        Assert.assertEquals((6 + 2), 8);
+        Assert.assertEquals((6 + 2), 9);
     }
 }
