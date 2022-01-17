@@ -8,5 +8,7 @@ public class TestCommit4 {
     public void checkCalc() {
         Assert.assertEquals((7+2), 9);
         Assert.assertEquals((4+2), 6);
+        Assert.assertEquals((7+2), 9);
+        Assert.assertEquals((4+2), 6);
     }
 }
